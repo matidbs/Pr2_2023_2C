@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698841711 source:c:\users\matias\desktop\utn\pr 2\ejerciciosparcial2\main.cpp
+	<iostream>
+	<cstring>
+	"archivoCabecera.h"
+
+1698841655 c:\users\matias\desktop\utn\pr 2\ejerciciosparcial2\archivocabecera.h
+
