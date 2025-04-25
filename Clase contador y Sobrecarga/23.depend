@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697638588 source:c:\users\matias\desktop\23\17\08\main.cpp
+	<iostream>
+	"Contador.h"
+
+1697637785 source:c:\users\matias\desktop\23\17\08\contador.cpp
+	"Contador.h"
+
+1697639182 c:\users\matias\desktop\23\17\08\contador.h
+
+1697637785 source:c:\users\matias\desktop\utn\pr 2\clase contador y sobrecarga\contador.cpp
+	"Contador.h"
+
+1697639182 c:\users\matias\desktop\utn\pr 2\clase contador y sobrecarga\contador.h
+
+1697638588 source:c:\users\matias\desktop\utn\pr 2\clase contador y sobrecarga\main.cpp
+	<iostream>
+	"Contador.h"
+
